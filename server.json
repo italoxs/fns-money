@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-12-01T15:14:43.585Z"
+    },
+    {
+      "id": 2,
+      "description": "Ração",
+      "type": "outcome",
+      "category": "Dog Alimentação",
+      "price": 250,
+      "createdAt": "2023-12-01T15:16:43.585Z"
+    },
+    {
+      "id": 3,
+      "description": "Veterinario",
+      "type": "outcome",
+      "category": "Dog Saude",
+      "price": 150,
+      "createdAt": "2023-12-02T08:16:43.585Z"
+    },
+    {
+      "description": "Expec",
+      "category": "Farmacia",
+      "price": 200,
+      "type": "outcome",
+      "createdAt": "2023-12-03T15:27:34.552Z",
+      "id": 4
+    },
+    {
+      "description": "Salario",
+      "category": "Trabalho",
+      "price": 1800,
+      "type": "income",
+      "createdAt": "2023-12-03T15:55:32.868Z",
+      "id": 5
+    },
+    {
+      "description": "Comprou Bayblade",
+      "category": "Brinquedo",
+      "price": 30,
+      "type": "outcome",
+      "createdAt": "2023-12-03T18:19:05.621Z",
+      "id": 6
+    }
+  ]
+}
